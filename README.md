@@ -1,10 +1,10 @@
-# Sudoku Bot
+# Sudoku Wiz
 
 This Python script is designed to solve Sudoku puzzles using a graphical user interface (GUI) interaction. It uses a recursive backtracking algorithm to find a solution for the given Sudoku puzzle and then simulates keyboard presses to display the solved puzzle.
 
 ## Usage
 
-1. Run the script `sudokuBot.py`.
+1. Run the script `sudokuWiz.py`.
 
 2. You will be prompted to enter the Sudoku grid. Input each row as space-separated integers. Use `0` to represent empty cells.
 
